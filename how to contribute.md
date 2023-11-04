@@ -3,15 +3,40 @@ Contributing to this repo is an incredible opportunity to expand access in HCI r
 
 For privacy reasons, please do not list any specific contacts (emails, names) in an entry, instead, note that they can be found following a link or another location.
 
-
 # contribution templates
 ## README.md (research opportunity list)
+***Formatted as:***
 
-**University/Company:**
-**Lab Name:**
+    ### University/Company, Lab Name Here
+    **HCI Projects:**
+
+    **Application Deadline:**
+
+    **Eligibility:**
+    
+    **Location:** Remote OR City, State
+
+    **Work Type:** in-person OR remote OR hybrid
+    - [application link]()
+    - [main page]()
+    - [projects page]()
+
+    Additional/relevant notes or links:
+
+***Which looks like:***
+
+### University/Company, Lab Name HERE
 **HCI Projects:**
-**Eligibility:**
-[application link]()
-[main page]()
-[projects page]()
+
+**Application Deadline:**
+
+**Eligibility:** 
+
+**Location:** Remote OR City, State
+
+**Work Type:** in-person OR remote OR hybrid
+- [application link]()
+- [main page]()
+- [projects page]()
+
 Additional/relevant notes or links:
