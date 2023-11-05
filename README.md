@@ -63,20 +63,3 @@ Additional/relevant notes or links: n/a
 
 Additional/relevant notes or links: N/A
 
-### University/Company, Lab Name HERE
-**Position Title:**
-
-**HCI Projects:**
-
-**Application Deadline:**
-
-**Eligibility:** 
-
-**Location:** Remote OR City, State
-
-**Work Type:** in-person OR remote OR hybrid
-- [application link]()
-- [main page]()
-- [projects page]()
-
-Additional/relevant notes or links:
