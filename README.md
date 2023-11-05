@@ -54,11 +54,13 @@ Additional/relevant notes or links: n/a
 
 
 ### Microsoft, Microsoft Research -- Brain Computer Interfaces
+**HCI Projects:** Enable BCI for the general population, using non-intrusive methods, fewer number of electrodes and custom-designed signal picking devices.
+
 **Position Title:** Research Intern
 
-**HCI Projects:** projects link on listing broken
-
 **Application Deadline:** Unlisted, posted Oct 26, 2023
+
+**Term:** Summer 2024, 12 weeks
 
 **Eligibility:** PhD student with 1 year experience with brain-computer interfaces and biological signals like EEG
 
@@ -68,7 +70,7 @@ Additional/relevant notes or links: n/a
 - [application link](https://jobs.careers.microsoft.com/global/en/job/1657602/Research-Intern---Brain-Computer-Interfaces)
 - [projects page](https://www.microsoft.com/en-us/research/project/brain-computer-interfaces/overview/)
 
-Additional/relevant notes or links: N/A
+Additional/relevant notes or links: Information in HCI projects description may be different, the link to the projects page in the position application is currently broken.
 
 ### CUNY Hunter College, Visualization and Virtual Reality Lab
 **Position Title:** REU Undergraduate Research Assistant
