@@ -11,6 +11,24 @@ This repository comes out of the fact that currently, no centralized dashboard t
 - find a list of all dedicated STS programs in the US here
 ---
 
+### Microsoft, Microsoft Research
+**Position Title:** Undergraduate Research Intern
+
+**HCI Projects:** General Application to all HCI projects (view projects page)
+
+**Application Deadline:** November 6, 2023 at 3pm EST
+
+**Eligibility:** Undergraduate Student, Rising Junior or Senior at program start
+
+**Location:** Redmond, WA / New York City, NY / Cambridge, MA
+
+**Work Type:** in-person
+- [application link](https://aka.ms/msr-ugrad/apply)
+- [main page](https://www.microsoft.com/en-us/research/academic-program/undergraduate-research-internship-computing/)
+- [projects page](https://www.microsoft.com/en-us/research/research-area/human-computer-interaction/?)
+
+Additional/relevant notes or links: n/a
+
 
 
 

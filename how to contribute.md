@@ -26,6 +26,8 @@ For privacy reasons, please do not list any specific contacts (emails, names) in
 ***Which looks like:***
 
 ### University/Company, Lab Name HERE
+**Position Title:**
+
 **HCI Projects:**
 
 **Application Deadline:**
