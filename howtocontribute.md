@@ -7,16 +7,22 @@ For privacy reasons, please do not list any specific contacts (emails, names) in
 ## README.md (research opportunity list)
 ***Formatted as:***
 
-    ### University/Company, Lab Name Here
+    ### University/Company, Lab Name HERE
+
     **HCI Projects:**
+
+    **Position Title:**
 
     **Application Deadline:**
 
-    **Eligibility:**
-    
-    **Location:** Remote OR City, State
+    **Term:**
 
-    **Work Type:** in-person OR remote OR hybrid
+    **Eligibility:** 
+
+    **Location:**
+
+    **Work Type:**
+
     - [application link]()
     - [main page]()
     - [projects page]()
@@ -26,17 +32,21 @@ For privacy reasons, please do not list any specific contacts (emails, names) in
 ***Which looks like:***
 
 ### University/Company, Lab Name HERE
-**Position Title:**
 
 **HCI Projects:**
 
+**Position Title:**
+
 **Application Deadline:**
+
+**Term:**
 
 **Eligibility:** 
 
 **Location:**
 
 **Work Type:**
+
 - [application link]()
 - [main page]()
 - [projects page]()
