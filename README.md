@@ -1,9 +1,9 @@
 # Research Opportunities in Human-Computer Interaction (HCI) for Undergraduates and Graduate Students! 🐥
-HCI research opportunities for undergraduate and graduate students. Includes UI, UX, HCI, STS, and other branches of HCI.
+HCI research opportunities for undergraduate and graduate students. Includes UI, UX, HCI, STS, and other branches of HCI or socially-engaged computational sciences.
 
-Use this repo to share and keep track of research opportunities of interest for throughout the year, but especially Summer 2024. The list is currently maintained by Claudio Castillo @ Pomona College, but let me know if you want to help maintain this repo!
+Use this repo to share relevant research opportunities throughout the year, but especially for Summer 2024. The list is currently maintained by Claudio Castillo @ Pomona College, but feel free to make PRs and help maintain this repo!
 
-This repository comes out of the fact that currently, no centralized dashboard to find research opportunities in HCI/STS and other interdisciplinary computational sciences exists. This repo hopes to fill the gap sites like http://www.andrewkuz.net/hci-opportunities-summer-2021.html once served for our field. Hopefully, this also becomes a collaborative community empowering those with knowledge of reserach opportunities (professors, PIs, grad students, RAs) feel empowered to share these opportunities. It is better for both research and researchers when these opportunities are more readily accessible to those who are interested in engaging research but might not have otherwise known outside of word of mouth or knowing exactly where to look.
+This repository comes out of the fact that currently, no centralized dashboard to find research opportunities in HCI/STS and other interdisciplinary computational sciences exists. This repo hopes to fill the gap sites like http://www.andrewkuz.net/hci-opportunities-summer-2021.html once served for the field. Hopefully, this also becomes a collaborative community empowering those with knowledge of research opportunities (professors, PIs, grad students, RAs) to share these opportunities. It is better for both research and researchers when these opportunities are more readily accessible via community knowledge platforms like this.
 
 ---
 - [how to contribute to this list](howtocontribute.md)
