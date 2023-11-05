@@ -29,6 +29,54 @@ This repository comes out of the fact that currently, no centralized dashboard t
 
 Additional/relevant notes or links: n/a
 
+### Microsoft, Microsoft Research -- Human Understanding and Empathy (HUE)
+**Position Title:** Research Intern
 
+**HCI Projects:** view projects page link
 
+**Application Deadline:** Unknown, posted Oct 30, 2023
 
+**Eligibility:** PhD student with 2 years of research experience 
+
+**Location:** Redmond, WA / Cambridge, MA
+
+**Work Type:** hybrid
+- [application link](https://jobs.careers.microsoft.com/global/en/job/1658080/Research-Intern---Human-Understanding-and-Empathy-(HUE))
+- [projects page](https://www.microsoft.com/en-us/research/group/human-understanding-and-empathy/overview/)
+
+Additional/relevant notes or links: n/a
+
+### Microsoft, Microsoft Research -- Brain Computer Interfaces
+**Position Title:** Research Intern
+
+**HCI Projects:** projects link on listing broken
+
+**Application Deadline:** Unlisted, posted Oct 26, 2023
+
+**Eligibility:** PhD student with 1 year experience with brain-computer interfaces and biological signals like EEG
+
+**Location:** Redmond, WA
+
+**Work Type:** hybrid
+- [application link](https://jobs.careers.microsoft.com/global/en/job/1657602/Research-Intern---Brain-Computer-Interfaces)
+- [projects page](https://www.microsoft.com/en-us/research/project/brain-computer-interfaces/overview/)
+
+Additional/relevant notes or links: N/A
+
+### University/Company, Lab Name HERE
+**Position Title:**
+
+**HCI Projects:**
+
+**Application Deadline:**
+
+**Eligibility:** 
+
+**Location:** Remote OR City, State
+
+**Work Type:** in-person OR remote OR hybrid
+- [application link]()
+- [main page]()
+- [projects page]()
+
+Additional/relevant notes or links:
