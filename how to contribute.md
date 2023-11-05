@@ -34,9 +34,9 @@ For privacy reasons, please do not list any specific contacts (emails, names) in
 
 **Eligibility:** 
 
-**Location:** Remote OR City, State
+**Location:**
 
-**Work Type:** in-person OR remote OR hybrid
+**Work Type:**
 - [application link]()
 - [main page]()
 - [projects page]()
