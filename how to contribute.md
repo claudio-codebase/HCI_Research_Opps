@@ -22,10 +22,12 @@ For privacy reasons, please do not list any specific contacts (emails, names) in
     - [projects page]()
 
     Additional/relevant notes or links:
-
+  
 ***Which looks like:***
 
 ### University/Company, Lab Name HERE
+**Position Title:**
+
 **HCI Projects:**
 
 **Application Deadline:**
