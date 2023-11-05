@@ -9,6 +9,7 @@ This repository comes out of the fact that currently, no centralized dashboard t
 - [how to contribute to this list](howtocontribute.md)
 - [find a list of all dedicated HCI programs or labs in the US here](US_HCI_programs_labs.md)
 - [find a list of all dedicated STS programs in the US here](US_STS_programs.md)
+
 ---
 
 ### Microsoft, Microsoft Research
