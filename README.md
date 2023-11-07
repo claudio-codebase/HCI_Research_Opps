@@ -12,26 +12,6 @@ This repository comes out of the fact that currently, no centralized dashboard t
 
 ---
 
-### Microsoft, Microsoft Research
-
-**HCI Projects:** General Application to all HCI projects (view projects page)
-
-**Position Title:** Undergraduate Research Intern
-
-**Application Deadline:** November 6, 2023 @ 3pm EST
-
-**Term:** Summer 2024, 12 weeks
-
-**Eligibility:** Undergraduate Student, Rising Junior or Senior at program start
-
-**Location:** Redmond, WA / New York City, NY / Cambridge, MA
-
-**Work Type:** in-person
-- [application link](https://aka.ms/msr-ugrad/apply)
-- [main page](https://www.microsoft.com/en-us/research/academic-program/undergraduate-research-internship-computing/)
-- [projects page](https://www.microsoft.com/en-us/research/research-area/human-computer-interaction/?)
-
-
 ### Microsoft, Microsoft Research -- Human Understanding and Empathy (HUE)
 
 **HCI Projects:** Use intelligent systems that leverage behavioral, contextual and physiological signals to build emotionally responsible systems. An interdisciplinary research group working on different areas including HCI, Machine Learning, and Psychology, bringing emotional intelligence to technology.

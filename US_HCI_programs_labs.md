@@ -3,3 +3,20 @@ Human–computer interaction (HCI) is research in the design and the use of comp
 
 # List of HCI programs and labs
 
+### UCSD, Design Lab
+
+**Type:** Interdisciplinary Research Lab
+
+**Location:** La Jolla, CA
+
+**Mission Statement and/or Research Focus:** building a substantive body of theory and evidence-based insights to establish a scientific basis for design
+
+**Participant Type:** Undergraduate, Graduate, Fellow, Faculty
+
+- [main page](https://designlab.ucsd.edu/)
+- [projects page](https://designlab.ucsd.edu/research/)
+
+
+Additional notes or links: [look at this link for more updates on summer 2024 internships  early in 2024!](https://designlab.ucsd.edu/jobs/internships/)
+
+
