@@ -178,3 +178,25 @@ Additional/relevant notes or links: no projects page available, robust program s
 
 Additional/relevant notes or links: funding one participant who does not meet US citizen/permanent resident requirement.
 
+
+### North Carolina State University, Socially-Relevant Computing and Analytics REU Site
+
+**HCI Projects:** Computing Education, Games as educational tools, ML for Education and Healthcare
+
+**Position Title:** REU Research Assistant
+
+**Application Deadline:** January 16, 2024 @ 11:59 PM EST
+
+**Term:** Summer 2024, 6  weeks (May 20 - July 26)
+
+**Eligibility:** US citizen or permanent resident
+
+**Location:** Raleigh, NC
+
+**Work Type:** in-person
+
+- [application link](https://sites.google.com/ncsu.edu/srca-reu/application?authuser=0)
+- [main page](https://sites.google.com/ncsu.edu/srca-reu/home?authuser=0)
+- [projects page](https://sites.google.com/ncsu.edu/srca-reu/research-projects?authuser=0)
+
+Additional/relevant notes or links: Application opens soon!
