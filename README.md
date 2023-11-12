@@ -200,3 +200,26 @@ Additional/relevant notes or links: funding one participant who does not meet US
 - [projects page](https://sites.google.com/ncsu.edu/srca-reu/research-projects?authuser=0)
 
 Additional/relevant notes or links: Application opens soon!
+
+
+### CRA-WP, Distributed Research Experiences for Undergraduates
+
+**HCI Projects:** not listed, but should be named by applicant as a research interest
+
+**Position Title:** Research Intern
+
+**Application Deadline:** Early Action - December 15, 2023. Regular - February 14, 2024.
+
+**Term:** Summer 2024
+
+**Eligibility:** pursuing degree at a US institution
+
+**Location:** Varies
+
+**Work Type:** in-person
+
+- [application link](https://www.abstractscorecard.com/cfp/submit/login.asp?EventKey=BEOMCBDO)
+- [main page](https://cra.org/cra-wp/dreu/#overview)
+- [projects page](https://cra.org/cra-wp/dreu/#tab-id-4)
+
+Additional/relevant notes or links: rising sophomores especially encouraged to apply. open to internationals, but program can only accept a limited few. you may look at past participant's project sites under the projects page -- these do not necessarily represent active projects.
