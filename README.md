@@ -223,3 +223,26 @@ Additional/relevant notes or links: Application opens soon!
 - [projects page](https://cra.org/cra-wp/dreu/#tab-id-4)
 
 Additional/relevant notes or links: rising sophomores especially encouraged to apply. open to internationals, but program can only accept a limited few. you may look at past participant's project sites under the projects page -- these do not necessarily represent active projects.
+
+
+### Brown University, Artificial Intelligence for Computational Creativity REU Site
+
+**HCI Projects:** AI/ML applications for handwriting, 3D tools, design, and more!
+
+**Position Title:** REU Research Assistant
+
+**Application Deadline:** February 2, 2024 @ 11:59 PM EST
+
+**Term:** Summer 2024, 9 weeks (June 3 - August 2)
+
+**Eligibility:** BA, community college, and transfer students eligible. Requires strong background in mathematics, including linear algebra, calculus, and probability.
+
+**Location:** Providence, RI
+
+**Work Type:** In-person
+
+- [application link 1](https://etap.nsf.gov/award/238/opportunity/6337) [application link 2](https://app.theleadershipalliance.org/) both links required
+- [main page](https://aireu.cs.brown.edu/)
+- [projects page](https://aireu.cs.brown.edu/)
+
+Additional/relevant notes or links: stipend of $6,480 distributed in 3 payments.
