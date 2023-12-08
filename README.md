@@ -246,3 +246,25 @@ Additional/relevant notes or links: rising sophomores especially encouraged to a
 - [projects page](https://aireu.cs.brown.edu/)
 
 Additional/relevant notes or links: stipend of $6,480 distributed in 3 payments.
+
+
+### Gallaudet University, Accessible Technology REU site 
+
+**HCI Projects:** Accessible Technology research for deaf and hard of hearing communities.
+
+**Position Title:** REU Research Assistant
+
+**Application Deadline:**  March 1, 2024 @ 11:59 ET
+
+**Term:** Summer 2024, 10 weeks (May 13 – July 19)
+
+**Eligibility:** Broad discipline requirements, including CS. 
+
+**Location:** Washington, DC
+
+**Work Type:** In-person
+
+- [application link](https://etap.nsf.gov/award/189/opportunity/5578)
+- [main page](https://gallaudet.edu/research/artificial-intelligence-accessibility-and-sign-language-center/accessible-information-communications-technologies/)
+
+Additional/relevant notes or links: encourage those fluent or interested in learning American Sign Language to apply.
