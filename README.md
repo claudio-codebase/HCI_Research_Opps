@@ -268,3 +268,26 @@ Additional/relevant notes or links: stipend of $6,480 distributed in 3 payments.
 - [main page](https://gallaudet.edu/research/artificial-intelligence-accessibility-and-sign-language-center/accessible-information-communications-technologies/)
 
 Additional/relevant notes or links: encourage those fluent or interested in learning American Sign Language to apply.
+
+
+### University of Houston - Downtown, Computational Sciences and Engineering REU site
+
+**HCI Projects:** mediated online interactions during virtual meetings, materials education software development
+
+**Position Title:** REU Research Assistant 
+
+**Application Deadline:** March 1, 2024 @ 11:59 PM CDT
+
+**Term:** Summer 2024, 8 weeks (June 3 - July 26)
+
+**Eligibility:** STEM degrees eligible
+
+**Location:** Houston, TX
+
+**Work Type:** In-person
+
+- [application link](https://etap.nsf.gov/award/2781/opportunity/3213)
+- [main page](https://www.uhd.edu/academics/sciences/computer-science-engineering-technology/reu.aspx)
+- [projects page](https://www.uhd.edu/academics/sciences/computer-science-engineering-technology/reu-projects.aspx)
+
+Additional/relevant notes or links: Each participant will receive a $4,000 stipend and $1,400 for food. Additionally, non-local resident students will receive $1,200 for room expenses. 
