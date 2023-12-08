@@ -136,9 +136,9 @@ Additional/relevant notes or links: part of a year-long program for UCSD student
 - [projects page](https://reuaihealth.wp.txstate.edu/projects/)
 
 
-### Iowa State University, Summer Program for Interdisciplinary Research and Education
+### Iowa State University, Emerging Interface Technologies REU site
 
-**HCI Projects:** Emerging Interface Technologies
+**HCI Projects:** all projects lead by HCI faculty mentors, or considered witin HCI field
 
 **Position Title:** REU Undergraduate Research Assistant
 
@@ -154,7 +154,7 @@ Additional/relevant notes or links: part of a year-long program for UCSD student
 - [application link](https://etap.nsf.gov/award/3235/opportunity/3763)
 - [main page](https://www.vrac.iastate.edu/reu/)
 
-Additional/relevant notes or links: no projects page available, robust program schedule diagram included on main information page
+Additional/relevant notes or links: no projects page available, robust program schedule diagram included on main information page.
 
 
 ### University of Texas at Austin, Cyberinfrastructure Research 4 Social Change
