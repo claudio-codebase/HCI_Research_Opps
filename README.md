@@ -136,9 +136,9 @@ Additional/relevant notes or links: part of a year-long program for UCSD student
 - [projects page](https://reuaihealth.wp.txstate.edu/projects/)
 
 
-### Iowa State University, Summer Program for Interdisciplinary Research and Education
+### Iowa State University, Emerging Interface Technologies REU site
 
-**HCI Projects:** Emerging Interface Technologies
+**HCI Projects:** all projects lead by HCI faculty mentors, or considered witin HCI field
 
 **Position Title:** REU Undergraduate Research Assistant
 
@@ -154,7 +154,7 @@ Additional/relevant notes or links: part of a year-long program for UCSD student
 - [application link](https://etap.nsf.gov/award/3235/opportunity/3763)
 - [main page](https://www.vrac.iastate.edu/reu/)
 
-Additional/relevant notes or links: no projects page available, robust program schedule diagram included on main information page
+Additional/relevant notes or links: no projects page available, robust program schedule diagram included on main information page.
 
 
 ### University of Texas at Austin, Cyberinfrastructure Research 4 Social Change
@@ -268,3 +268,100 @@ Additional/relevant notes or links: stipend of $6,480 distributed in 3 payments.
 - [main page](https://gallaudet.edu/research/artificial-intelligence-accessibility-and-sign-language-center/accessible-information-communications-technologies/)
 
 Additional/relevant notes or links: encourage those fluent or interested in learning American Sign Language to apply.
+
+
+### University of Houston - Downtown, Computational Sciences and Engineering REU site
+
+**HCI Projects:** mediated online interactions during virtual meetings, materials education software development
+
+**Position Title:** REU Research Assistant 
+
+**Application Deadline:** March 1, 2024 @ 11:59 PM CDT
+
+**Term:** Summer 2024, 8 weeks (June 3 - July 26)
+
+**Eligibility:** STEM degrees eligible
+
+**Location:** Houston, TX
+
+**Work Type:** In-person
+
+- [application link](https://etap.nsf.gov/award/2781/opportunity/3213)
+- [main page](https://www.uhd.edu/academics/sciences/computer-science-engineering-technology/reu.aspx)
+- [projects page](https://www.uhd.edu/academics/sciences/computer-science-engineering-technology/reu-projects.aspx)
+
+Additional/relevant notes or links: Each participant will receive a $4,000 stipend and $1,400 for food. Additionally, non-local resident students will receive $1,200 for room expenses. 
+
+
+
+### Cornell University, Programmable Plants and the Internet of Living Things REU site
+
+**HCI Projects:** Human, Plant, Computer Interaction
+
+**Position Title:** REU research assistant
+
+**Application Deadline:** February 6, 2024 @ 11:59 PM EST
+
+**Term:** Summer 2024, 10 weeks (June - August)
+
+**Eligibility:** us citizens, 2.75 or greater GPA.
+
+**Location:** Ithaca, NY
+
+**Work Type:** in-person
+
+- [application link](https://etap.nsf.gov/award/4390/opportunity/5248)
+- [main page](https://cropps.cornell.edu/broader-impact/research-experience-for-undergrads/)
+- [projects page](https://cropps.cornell.edu/broader-impact/research-experience-for-undergrads/)
+
+Additional/relevant notes or links: exact dates not listed.  looking for interest in plant sciences, bioinformatics, or digital biology fields. encourage minority students and those attending small colleges to apply.
+
+
+
+### University of Southern California, The Face and Mind of Artificial Intelligence REU site
+
+**HCI Projects:** Projects run through Institute for Creative Technologies at USC, a multidisciplinary research institute. Projects include AI interaction, VR, and more.
+
+**Position Title:** REU research assistant
+
+**Application Deadline:** January 31, 2024 @ 11:59 PM
+
+**Term:** Summer 2024, 10 weeks (May 28 - August 2)
+
+**Eligibility:** us citizen and pursuing undergraduate degree
+
+**Location:** Los Angeles, CA
+
+**Work Type:** In-person
+
+- [application link](https://etap.nsf.gov/award/641/opportunity/5710)
+- [main page](https://ict.usc.edu/reu/)
+- [projects page](https://ict.usc.edu/reu/)
+
+Additional/relevant notes or links: welcome applications from students in computer science, as well as many other fields, such as psychology, art/animation, interactive media, linguistics, and communications.
+
+
+
+### University of Tennessee Knoxville, Microelectronics and Sensor Systems REU site
+
+**HCI Projects:** Implementing microelectronic and sensor systems which interact with and interpret the environment around us. Multi-disciplinary focus emphasizes improving the lives of humans, animals, and the environment.
+
+**Position Title:** REU Research Assistant
+
+**Application Deadline:** February 15, 2024 @ 11:59 PM EST
+
+**Term:** Summer 2024, 10 weeks (May 28 – Jul 31)
+
+**Eligibility:** Explicitly open to all undergraduate years, US citizens or permanent residents, any STEM major.
+
+**Location:** Knoxville, TN
+
+**Work Type:** In-person
+
+- [application link](https://etap.nsf.gov/award/477/opportunity/4819)
+- [main page](https://microelectronicsandsensorsystems.utk.edu/)
+- [projects page](https://microelectronicsandsensorsystems.utk.edu/projects/)
+
+Additional/relevant notes or links: n/a
+
+
