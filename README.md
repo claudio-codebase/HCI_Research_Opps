@@ -340,3 +340,28 @@ Additional/relevant notes or links: exact dates not listed.  looking for interes
 
 Additional/relevant notes or links: welcome applications from students in computer science, as well as many other fields, such as psychology, art/animation, interactive media, linguistics, and communications.
 
+
+
+### University of Tennessee Knoxville, Microelectronics and Sensor Systems REU site
+
+**HCI Projects:** Implementing microelectronic and sensor systems which interact with and interpret the environment around us. Multi-disciplinary focus emphasizes improving the lives of humans, animals, and the environment.
+
+**Position Title:** REU Research Assistant
+
+**Application Deadline:** February 15, 2024 @ 11:59 PM EST
+
+**Term:** Summer 2024, 10 weeks (May 28 – Jul 31)
+
+**Eligibility:** Explicitly open to all undergraduate years, US citizens or permanent residents, any STEM major.
+
+**Location:** Knoxville, TN
+
+**Work Type:** In-person
+
+- [application link](https://etap.nsf.gov/award/477/opportunity/4819)
+- [main page](https://microelectronicsandsensorsystems.utk.edu/)
+- [projects page](https://microelectronicsandsensorsystems.utk.edu/projects/)
+
+Additional/relevant notes or links: n/a
+
+
