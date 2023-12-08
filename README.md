@@ -317,3 +317,26 @@ Additional/relevant notes or links: Each participant will receive a $4,000 stipe
 Additional/relevant notes or links: exact dates not listed.  looking for interest in plant sciences, bioinformatics, or digital biology fields. encourage minority students and those attending small colleges to apply.
 
 
+
+### University of Southern California, The Face and Mind of Artificial Intelligence REU site
+
+**HCI Projects:** Projects run through Institute for Creative Technologies at USC, a multidisciplinary research institute.
+
+**Position Title:** REU research assistant
+
+**Application Deadline:** January 31, 2024 @ 11:59 PM
+
+**Term:** Summer 2024, 10 weeks (May 28 - August 2)
+
+**Eligibility:** us citizen and pursuing undergraduate degree
+
+**Location:** Los Angeles, CA
+
+**Work Type:** In-person
+
+- [application link](https://etap.nsf.gov/award/641/opportunity/5710)
+- [main page](https://ict.usc.edu/reu/)
+- [projects page](https://ict.usc.edu/reu/)
+
+Additional/relevant notes or links: welcome applications from students in computer science, as well as many other fields, such as psychology, art/animation, interactive media, linguistics, and communications.
+
