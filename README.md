@@ -320,7 +320,7 @@ Additional/relevant notes or links: exact dates not listed.  looking for interes
 
 ### University of Southern California, The Face and Mind of Artificial Intelligence REU site
 
-**HCI Projects:** Projects run through Institute for Creative Technologies at USC, a multidisciplinary research institute.
+**HCI Projects:** Projects run through Institute for Creative Technologies at USC, a multidisciplinary research institute. Projects include AI interaction, VR, and more.
 
 **Position Title:** REU research assistant
 
