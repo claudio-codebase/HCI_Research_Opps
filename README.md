@@ -291,3 +291,29 @@ Additional/relevant notes or links: encourage those fluent or interested in lear
 - [projects page](https://www.uhd.edu/academics/sciences/computer-science-engineering-technology/reu-projects.aspx)
 
 Additional/relevant notes or links: Each participant will receive a $4,000 stipend and $1,400 for food. Additionally, non-local resident students will receive $1,200 for room expenses. 
+
+
+
+### Cornell University, Programmable Plants and the Internet of Living Things REU site
+
+**HCI Projects:** Human, Plant, Computer Interaction
+
+**Position Title:** REU research assistant
+
+**Application Deadline:** February 6, 2024 @ 11:59 PM EST
+
+**Term:** Summer 2024, 10 weeks (June - August)
+
+**Eligibility:** us citizens, 2.75 or greater GPA.
+
+**Location:** Ithaca, NY
+
+**Work Type:** in-person
+
+- [application link](https://etap.nsf.gov/award/4390/opportunity/5248)
+- [main page](https://cropps.cornell.edu/broader-impact/research-experience-for-undergrads/)
+- [projects page](https://cropps.cornell.edu/broader-impact/research-experience-for-undergrads/)
+
+Additional/relevant notes or links: exact dates not listed.  looking for interest in plant sciences, bioinformatics, or digital biology fields. encourage minority students and those attending small colleges to apply.
+
+
