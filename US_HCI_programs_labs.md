@@ -70,5 +70,101 @@ Additional notes or links: really cute postdogs!
 
 
 
+### University of California, Los Angeles, Human-Computer Interaction Research
+
+**Type:** Research Lab
+
+**Location:** Los Angeles, CA
+
+**Mission Statement and/or Research Focus:** Mission is to innovate interactive systems that catalyze advances in AI to achieve three levels of human-centered objectives: 1. Aligning with human values 2. Assimilating human intents 3. Augmenting human abilities
+
+**Participant Type:** Professors, PhD and MS students
+
+- [main page](https://hci.ucla.edu/#aboutus)
+- [projects page](https://hci.ucla.edu/#projects)
+- [github](https://github.com/ucla-hci)
+
+Additional notes or links: seemed to have had undergraduate researchers in the past!
 
 
+### California State University, Los Angeles, Department of Computer Science, The Experience Lab
+
+**Type:** Research Lab
+
+**Location:** Los Angeles, CA
+
+**Mission Statement and/or Research Focus:** Explores human-computer interaction, with a focus on immersive experiences in virtual reality and augmented reality. Research and develop techniques and technologies to improve the human experience of computing.
+
+**Participant Type:** Undergraduate and Master's Students, Post-Doc opportunities.
+
+- [main page](https://www.calstatela.edu/research/xplab)
+- [projects page](https://www.calstatela.edu/research/xplab/research)
+- [people page](https://www.calstatela.edu/research/xplab/people)
+
+Additional notes or links: 'XP lab' for short. No PhD programs. Run under one professor at Cal State LA, refer to people page.
+
+
+### Santa Clara University, Human-Computer Interaction Lab
+
+**Type:** Research Lab
+
+**Location:** Santa Clare, CA
+
+**Mission Statement and/or Research Focus:** 👁️ AR/VR • 🎨 Generative AI • 🌐 Social computing • 🌱 Digital wellbeing
+
+**Participant Type:** Undergraduate, Masters, and PhD students. Interdisciplinary Professors.
+
+- [main page](https://scuhci.com/)
+- [projects and people page](https://scuhci.com/projects/)
+- [linkedin](https://www.linkedin.com/company/scu-hci/)
+
+Additional notes or links: Deeply interdisciplinary lab, including professors in law, english, and more! also, check out their ohlone ar project under projects.
+
+
+### University of California, Berkeley, Human-Computer Interaction Group
+
+**Type:** Group/Consortium of Labs and Departments
+
+**Location:** Berkeley, CA
+
+**Mission Statement and/or Research Focus:** 
+
+**Participant Type:** Undergraduate, Masters, PhD students. Faculty opportunities vary.
+
+- [main page](https://hci.berkeley.edu/)
+- [hci labs around berkeley campus, virtual video tour](https://www.youtube.com/watch?v=mdpO7hXcigg&t=3s&ab_channel=EricPaulos)
+
+Additional notes or links: more labs linked within main page.
+
+
+### University of California, Berkeley, Berkeley Institute of Design
+
+**Type:** Research Group
+
+**Location:** Berkeley, CA
+
+**Mission Statement and/or Research Focus:** Research group that fosters a deeply interdisciplinary approach to design for the 21st century, spanning human-computer interaction, mechanical design, education, architecture, and art practice. 
+
+**Participant Type:** Faculty and PhD Students.
+
+- [main page](https://bid.berkeley.edu/)
+- [projects page, within about](https://bid.berkeley.edu/about)
+
+Additional notes or links: sparse project information.
+
+
+### University of California, Berkeley, Berkeley Center for New Media
+
+**Type:** Research Center
+
+**Location:** Berkeley, CA
+
+**Mission Statement and/or Research Focus:** An interdisciplinary research center that studies and shapes media transition and emergence from diverse perspectives. Through critical thinking and making, BCNM cultivate technological equity and fairness in our classrooms, in our communities, and on the internet.
+
+**Participant Type:** Undergraduate, Master's, PhD Students, and Faculty.
+
+- [main page](https://bcnm.berkeley.edu/)
+- [projects page](https://bcnm.berkeley.edu/news-research/)
+- [instagram](https://www.instagram.com/calnewmedia/)
+
+Additional notes or links: page load times significant.
