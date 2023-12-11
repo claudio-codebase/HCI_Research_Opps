@@ -168,3 +168,18 @@ Additional notes or links: sparse project information.
 - [instagram](https://www.instagram.com/calnewmedia/)
 
 Additional notes or links: page load times significant.
+
+
+### University of California, Irvine, Informatics Department, Social and Technological Action Research (STAR) group
+
+**Type:** Research Group
+
+**Location:** Irvine, CA
+
+**Mission Statement and/or Research Focus:** Perform research in the areas of human-computer interaction (HCI), computer-supported cooperative work (CSCW), ubiquitous computing (ubicomp), medical informatics, and educational and assistive technologies, focusing on conditions and effects.
+
+**Participant Type:** Post-Doc and PhD students.
+
+- [main page](https://www.star-uci.org/about/)
+
+Additional notes or links: site includes detailed lab manual. open to graduate and undergraduate students, but specific commitments are required. no ms or undergrads currently listed on the site.
