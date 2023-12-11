@@ -86,3 +86,19 @@ Additional notes or links: really cute postdogs!
 
 Additional notes or links: seemed to have had undergraduate researchers in the past!
 
+
+### California State University, Los Angeles, Department of Computer Science, The Experience Lab
+
+**Type:** Research Lab
+
+**Location:** Los Angeles, CA
+
+**Mission Statement and/or Research Focus:** Explores human-computer interaction, with a focus on immersive experiences in virtual reality and augmented reality. Research and develop techniques and technologies to improve the human experience of computing.
+
+**Participant Type:** Undergraduate and Master's Students, Post-Doc opportunities.
+
+- [main page](https://www.calstatela.edu/research/xplab)
+- [projects page](https://www.calstatela.edu/research/xplab/research)
+- [people page](https://www.calstatela.edu/research/xplab/people)
+
+Additional notes or links: 'XP lab' for short. No PhD programs. Run under one professor at Cal State LA, refer to people page.
