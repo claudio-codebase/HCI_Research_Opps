@@ -70,5 +70,19 @@ Additional notes or links: really cute postdogs!
 
 
 
+### University of California, Los Angeles, Human-Computer Interaction Research
 
+**Type:** Research Lab
+
+**Location:** Los Angeles, CA
+
+**Mission Statement and/or Research Focus:** Mission is to innovate interactive systems that catalyze advances in AI to achieve three levels of human-centered objectives: 1. Aligning with human values 2. Assimilating human intents 3. Augmenting human abilities
+
+**Participant Type:** Professors, PhD and MS students
+
+- [main page](https://hci.ucla.edu/#aboutus)
+- [projects page](https://hci.ucla.edu/#projects)
+- [github](https://github.com/ucla-hci)
+
+Additional notes or links: seemed to have had undergraduate researchers in the past!
 
