@@ -3,7 +3,7 @@ HCI research opportunities for undergraduate and graduate students. Includes UI,
 
 Use this repo to share relevant research opportunities throughout the year, but especially for Summer 2024. The list is currently maintained by Claudio Castillo @ Pomona College, but feel free to make PRs and help maintain this repo!
 
-This repository comes out of the fact that currently, no centralized dashboard to find research opportunities in HCI/STS and other interdisciplinary computational sciences exists. This repo hopes to fill the gap sites like http://www.andrewkuz.net/hci-opportunities-summer-2021.html once served for the field. Hopefully, this also becomes a collaborative community empowering those with knowledge of research opportunities (professors, PIs, grad students, RAs) to share these opportunities. It is better for both research and researchers when these opportunities are more readily accessible via community knowledge platforms like this.
+This repository comes out of the fact that currently, no centralized dashboard to find research opportunities in HCI/STS and other interdisciplinary computational sciences exists. This repo hopes to fill the gap sites like http://www.andrewkuz.net/hci-opportunities-summer-2021.html once served for the field. Hopefully, this also becomes a collaborative community empowering those with knowledge of research opportunities (professors, PIs, grad students, RAs) to share these opportunities. Researchers and students benefit when these opportunities are accessible for all!
 
 ---
 - [how to contribute to this list](howtocontribute.md)
