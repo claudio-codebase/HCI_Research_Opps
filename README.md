@@ -3,7 +3,7 @@ HCI research opportunities for undergraduate and graduate students. Includes UI,
 
 Use this repo to share relevant research opportunities throughout the year, but especially for Summer 2024. The list is currently maintained by Claudio Castillo @ Pomona College, but feel free to make PRs and help maintain this repo!
 
-This repository comes out of the fact that currently, no centralized dashboard to find research opportunities in HCI/STS and other interdisciplinary computational sciences exists. This repo hopes to fill the gap sites like http://www.andrewkuz.net/hci-opportunities-summer-2021.html once served for the field. Hopefully, this also becomes a collaborative community empowering those with knowledge of research opportunities (professors, PIs, grad students, RAs) to share these opportunities. It is better for both research and researchers when these opportunities are more readily accessible via community knowledge platforms like this.
+This repository comes out of the fact that currently, no centralized dashboard to find research opportunities in HCI/STS and other interdisciplinary computational sciences exists. This repo hopes to fill the gap sites like http://www.andrewkuz.net/hci-opportunities-summer-2021.html once served for the field. Hopefully, this also becomes a collaborative community empowering those with knowledge of research opportunities (professors, PIs, grad students, RAs) to share these opportunities. Researchers and students benefit when these opportunities are accessible for all!
 
 ---
 - [how to contribute to this list](howtocontribute.md)
@@ -365,3 +365,24 @@ Additional/relevant notes or links: welcome applications from students in comput
 Additional/relevant notes or links: n/a
 
 
+### Carnegie Mellon University, Human-Computer Interaction Institute
+
+**HCI Projects:** Over 28 projects within HCII
+
+**Position Title:** REU Research Assistant
+
+**Application Deadline:** January 26, 2024 @ 11:59 PM
+
+**Term:** Summer 2024, 10-weeks (May 28 - August 2)
+
+**Eligibility:** US citizens for most, but not all, projects
+
+**Location:** Pittsburgh, PA
+
+**Work Type:** In-person
+
+- [application link](https://applygrad.cs.cmu.edu/apply/index.php?domain=94)
+- [main page](https://hcii.cmu.edu/summer-research-program)
+- [projects page](https://hcii.cmu.edu/summer-research-program/projects)
+
+Additional/relevant notes or links: n/a
