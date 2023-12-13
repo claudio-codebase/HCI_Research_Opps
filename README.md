@@ -365,7 +365,7 @@ Additional/relevant notes or links: welcome applications from students in comput
 Additional/relevant notes or links: n/a
 
 
-### Carnegie Mellon University
+### Carnegie Mellon University, Human-Computer Interaction Institute
 
 **HCI Projects:** Over 28 projects within HCII
 
