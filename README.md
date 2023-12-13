@@ -365,3 +365,24 @@ Additional/relevant notes or links: welcome applications from students in comput
 Additional/relevant notes or links: n/a
 
 
+### Carnegie Mellon University
+
+**HCI Projects:** Over 28 projects within HCII
+
+**Position Title:** REU Research Assistant
+
+**Application Deadline:** January 26, 2024 @ 11:59 PM
+
+**Term:** Summer 2024, 10-weeks (May 28 - August 2)
+
+**Eligibility:** US citizens for most, but not all, projects
+
+**Location:** Pittsburgh, PA
+
+**Work Type:** In-person
+
+- [application link](https://applygrad.cs.cmu.edu/apply/index.php?domain=94)
+- [main page](https://hcii.cmu.edu/summer-research-program)
+- [projects page](https://hcii.cmu.edu/summer-research-program/projects)
+
+Additional/relevant notes or links: n/a
