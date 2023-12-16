@@ -183,3 +183,21 @@ Additional notes or links: page load times significant.
 - [main page](https://www.star-uci.org/about/)
 
 Additional notes or links: site includes detailed lab manual. open to graduate and undergraduate students, but specific commitments are required. no ms or undergrads currently listed on the site.
+
+
+
+### University of California, Santa Barbara, Four Eyes Lab
+
+**Type:** Research Lab
+
+**Location:** Santa Barbara, CA
+
+**Mission Statement and/or Research Focus:** AR, VR, Computer Vision, Data mining and ML
+
+**Participant Type:** Facutly, PhD, MS, Undegraduate student researchers.
+
+- [main page](https://ilab.cs.ucsb.edu/)
+- [projects page](https://ilab.cs.ucsb.edu/research)
+- [github](https://github.com/FourEyesLab)
+
+Additional notes or links: Nested between the Department of Computer Science and the Media and Technology Arts Program. "We are always looking for motivated students to participate in research projects. Contact any of our members to get involved!" 
