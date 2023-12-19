@@ -201,3 +201,19 @@ Additional notes or links: site includes detailed lab manual. open to graduate a
 - [github](https://github.com/FourEyesLab)
 
 Additional notes or links: Nested between the Department of Computer Science and the Media and Technology Arts Program. "We are always looking for motivated students to participate in research projects. Contact any of our members to get involved!" 
+
+
+### Brown University, HCI systems research group
+
+**Type:** Research Lab
+
+**Location:** Providence, RI
+
+**Mission Statement and/or Research Focus:** Taking user interactions and behavior to create new experiences.
+
+**Participant Type:** PhD, MS, Undergraduate students
+
+- [main page](https://jeffhuang.com/hci/)
+- [projects page](https://jeffhuang.com/hci/)
+
+Additional notes or links: some of the projects, like computer science open data are valuable to any cs student researcher!
